@@ -70,10 +70,10 @@ namespace pocketmine {
 	use pocketmine\utils\Utils;
 	use pocketmine\wizard\Installer;
 
-	const VERSION = "Alpha_1.4dev";
-	const API_VERSION = "1.9.0";
-	const CODENAME = "絶好(Zekkou)ケーキ(Cake)";
-	const MINECRAFT_VERSION = "v0.10.4 alpha";
+	const VERSION = "1.4.2";
+	const API_VERSION = "1.10.0";
+	const CODENAME = "FeedMyKidsWeee";
+	const MINECRAFT_VERSION = "v1.21.0";
 
 	/*
 	 * Startup code. Do not look at it, it may harm you.
